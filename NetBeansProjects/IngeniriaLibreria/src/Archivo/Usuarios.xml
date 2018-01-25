@@ -1,0 +1,9 @@
+<Usuarios>
+  <Usuario>
+    <nombre>Nathaly</nombre>
+    <apellido>Bakerian</apellido>
+    <cedula>26055828</cedula>
+    <fecha>12-01-2018</fecha>
+    <id>1</id>
+  </Usuario>
+</Usuarios>
